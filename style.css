@@ -1,0 +1,26 @@
+body{
+    background-color: lightgrey;
+}
+
+.animalDiv {
+    float: left;
+    padding-left:0px;
+}
+
+.Animal-btn {
+    background-color: teal;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+};
+#add-Animal {
+    background-color: teal;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+
+}
